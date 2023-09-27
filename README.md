@@ -1,6 +1,8 @@
 # TATA_DATA_VISUALISATION
 The purpose of this report is to present a succinct overview of the key data preparation and analytical processes undertaken within retail dataset. The dataset under consideration comprises several essential columns, including InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, Amount, CustomerID, and Country.
 
+![report](https://github.com/ShivarajPatilaa/TATA_DATA_VISUALISATION/assets/131588848/660d9e01-46e8-4a2b-ab8a-9beeb7dc7746)
+
 1. Data Loading:
    - The initial step in the analysis involved the successful loading of the dataset into the Power BI environment.
 2. Data Cleansing:
@@ -16,4 +18,4 @@ The purpose of this report is to present a succinct overview of the key data pre
    - A comprehensive analysis was conducted to determine the Pareto percent, thereby offering insights into the relative contribution of each country to the overall sales and quantity.
 
 
-![report](https://github.com/ShivarajPatilaa/TATA_DATA_VISUALISATION/assets/131588848/660d9e01-46e8-4a2b-ab8a-9beeb7dc7746)
+
