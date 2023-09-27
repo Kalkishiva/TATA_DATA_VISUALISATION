@@ -16,3 +16,4 @@ The purpose of this report is to present a succinct overview of the key data pre
    - A comprehensive analysis was conducted to determine the Pareto percent, thereby offering insights into the relative contribution of each country to the overall sales and quantity.
 
 
+![report](https://github.com/ShivarajPatilaa/TATA_DATA_VISUALISATION/assets/131588848/660d9e01-46e8-4a2b-ab8a-9beeb7dc7746)
